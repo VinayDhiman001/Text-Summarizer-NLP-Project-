@@ -8,7 +8,7 @@ __version__="0.0.0"
 
 REPO_NAME ="Text-Summarizer-NLP-Project-"
 AUTHOR_USER_NAME = "VinayDhiman001"
-SRC_REPO = "Text-Summarizer"
+SRC_REPO = "textSummarizer"
 AUTHOR_EMAIL = "vinusaha007@gmail.com"
 
 
